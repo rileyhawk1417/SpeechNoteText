@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SpeechNote</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_fragment_label">Home Screen</string>
+    <string name="notes_fragment_label">Notes Screen</string>
+    <string name="notes_screen">Notes</string>
+    <string name="previous">Previous</string> <!-- Move button to home screen/ create FAB-->
+
+    <!-- Text Strings used in app -->
+    <string name="welcome_text">Welcome to SpeechNote</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- ID's -->
+    <string name="notes_btn">notes</string>
+    <string name="create_btn">create notes</string>
+    <string name="notes_list_btn">notes list</string>
+    <string name="stop_btn">stopBtn</string>
+    <string name="pause_btn">pauseBtn</string>
+
+    <!-- Strings for Screens -->
+</resources>
